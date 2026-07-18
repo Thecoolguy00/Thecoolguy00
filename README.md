@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey, I'm Arvindraj :sparkles:
 
-<!--
-**Thecoolguy00/Thecoolguy00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+class Arvindraj:
+    role = "GenAI Engineer"
 
-Here are some ideas to get you started:
+    expertise = (
+        "Agentic AI",
+        "LLM Infrastructure",
+        "AI Security"
+    )
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    public_project = ["CyberStrike"]
+    private_project = ["Aira", "PersistantMemory"]
+```
+
+- Built enterprise AI systems at **Vdart Digital**, including multi-agent AI applications and real-time voice AI pipelines.
+- I enjoy building with LLMs, agent orchestration, automation, and AI security.
+- I like experimenting with new ideas and turning them into practical, real-world systems.
+### AI × CyberSec
