@@ -2,16 +2,16 @@
 
 ```python
 class Arvindraj:
-    role = "GenAI Engineer"
+    role = "GenAI Engineer, Security Automation Engineer"
 
     expertise = (
         "Agentic AI",
-        "LLM Infrastructure",
-        "AI Security"
+        "AI Security",
+        "Security Orchestration & Automation"
     )
 
-    public_project = ["CyberStrike"]
-    private_project = ["Aira", "PersistantMemory"]
+    public_project = ["CyberStrike-v2", "agent-memory-fabric"]
+    private_project = ["Aira"]
 ```
 
 - Built enterprise AI systems at **Vdart Digital**, including multi-agent AI applications and real-time voice AI pipelines.
