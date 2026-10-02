@@ -1,20 +1,28 @@
-# Hey, I'm Arvindraj :sparkles:
+# Hey, I'm Arvindraj ✨
 
 ```python
 class Arvindraj:
-    role = "GenAI Engineer, Security Automation Engineer"
+    role = "GenAI Engineer | Aspiring ML Engineer"
 
-    expertise = (
+    interests = (
         "Agentic AI",
-        "AI Security",
-        "Security Orchestration & Automation"
+        "Machine Learning",
+        "Data Science",
+        "LLM Systems",
+        "AI Automation"
     )
 
-    public_project = ["CyberStrike-v2", "agent-memory-fabric"]
-    private_project = ["Aira"]
+    public_projects = [
+        "CyberStrike-v2",
+        "agent-memory-fabric"
+    ]
+
+    private_projects = ["Aira"]
 ```
 
-- Built enterprise AI systems at **Vdart Digital**, including multi-agent AI applications and real-time voice AI pipelines.
-- I enjoy building with LLMs, agent orchestration, automation, and AI security.
-- I like experimenting with new ideas and turning them into practical, real-world systems.
-### AI × CyberSec
+- Built production-scale AI applications at **Vdart Digital**, including multi-agent systems and real-time voice AI pipelines.
+- I work with LLMs, agent orchestration, RAG, LangChain, LangGraph, and MCP.
+- Currently expanding into classical ML, model training, feature engineering, and data-driven problem solving.
+- I enjoy turning ideas into practical systems, experimenting with new approaches, and learning by building.
+
+### GenAI × ML × Data
